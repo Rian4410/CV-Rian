@@ -25,10 +25,10 @@
 			<div class="Contact">
 				<h2>Contact</h2>
 				<p>
-					<b>Email id:</b>xyz@gmail.com
+					<b>Email id:</b>riankelanaputra90@gmail.com
 				</p>
 				<p>
-					<b>Mobile no :</b>1234567890
+					<b>Mobile no :</b>+6281370326921
 				</p>
 			</div>
 			<div class="Skills">
@@ -36,11 +36,10 @@
 				<ul>
 					<li>
 						<b>Programming Languages :
-							Python, Java, C++</b>
+							PHP, Java, C++</b>
 					</li>
 					<li>
-						<b>Frontend : HTML5, CSS3,
-							JavaScript, React</b>
+						<b>Frontend : HTML, CSS</b>
 					</li>
 					<li>
 						<b>Backend : Node.js</b>
