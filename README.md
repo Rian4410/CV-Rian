@@ -50,14 +50,14 @@
 				<h2>Language</h2>
 				<ul>
 					<li>English</li>
-					<li>Hindi</li>
+					<li>Indonesian</li>
 				</ul>
 			</div>
 			<div class="Hobbies">
 				<h2>Hobbies</h2>
 				<ul>
-					<li>Playing cricket</li>
-					<li>Swimming</li>
+					<li>Listening to Music</li>
+					<li>Wathcing Movies</li>
 				</ul>
 			</div>
 		</div>
